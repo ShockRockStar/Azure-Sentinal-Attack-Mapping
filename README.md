@@ -1,17 +1,15 @@
 Sentinel SIEM: Adversary detection 
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Track and record failed login attempts to a publicly exposed Windows Virtual Machine. Extracted raw data from Microsoft Sentinel and visualized the location of attackers via Sentinal Worksheet Workbook Map.  
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Implemented API script using https://ipgeolocation.io/ to retrive Geographic information from IP Addresses.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
